@@ -3,6 +3,8 @@
 
 RefInfo
 https://jdbc.postgresql.org/download.html
+https://amateur-engineer.com/postgresql-mac-install/
+
 
 #Env
 Java1.8
